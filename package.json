@@ -1,12 +1,12 @@
 {
-  "name" : "radius",
+  "name" : "radiuss",
   "version" : "1.1.4",
   "description" : "RADIUS packet encoding/decoding",
-  "author": "Nearbuy Systems <npm@nearbuysystems.com>",
+  "author": "Yasin Balcancı <yasin.balcanci@opinnate.com>",
   "main": "./lib/radius",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nearbuy/node-radius.git"
+    "url": "git://github.com/ybalcanci/node-radius.git"
   },
   "engines": { "node": ">=0.8.0" },
   "devDependencies": {
